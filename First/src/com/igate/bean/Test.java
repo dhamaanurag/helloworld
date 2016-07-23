@@ -12,7 +12,7 @@ public class Test {
 		BeanFactory bn = new XmlBeanFactory(res);
 		Bean b = (Bean) bn.getBean("ans2");
 		b.dispAll();
-
+		 System.out.println("hi");
 	}
 
 }

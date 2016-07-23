@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/JAR_Files/commons-fileupload-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/JAR_Files/spring-beans-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/JAR_Files/spring-core-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/JAR_Files/spring-web-3.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil/Downloads/com.springsource.org.apache.commons.logging-sources-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAR_Files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/JAR_Files/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/JAR_Files/Spring/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAR_Files/Spring/org.springframework.beans-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/JAR_Files/Spring/org.springframework.core-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
